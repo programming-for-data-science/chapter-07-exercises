@@ -1,7 +1,6 @@
 # Chapter 7 Exercises
 
 This repository contains programming exercises for working with vectors in R, 
-based on [Chapter 7](https://info201.github.io/vectors.html) 
-of the [Technical Foundations of Informatics](https://info201.github.io/) course book. 
-
+based on Chapter 7 of [_Programming Skills for Data Science_](https://programming-for-data-science.github.io/).
+ 
 Solutions can be found in the `solution` branch.
